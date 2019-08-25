@@ -1,6 +1,6 @@
 # OpenCV and Python
 
-## Scripts using some basic OpenCV functions, such as image manipulation, histogram construction, and thresholding techniques. The images obtained are in the 'Images' folder and can be replicated by executing the codes.
+## Scripts using some basic OpenCV functions, such as image manipulation, histogram construction, and thresholding techniques. The images obtained are in the images folder and can be replicated by executing the codes.
 
 ## Feel free for comments, suggestions or something else. You can contact me on:
 ## daraujo.augusto@gmail.com or [LinkedIn](https://linkedin.com/in/daraujo-augusto)
